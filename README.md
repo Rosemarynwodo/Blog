@@ -9,7 +9,8 @@ Features of RosyBlog
 
 User-friendly interface for creating, managing, and publishing blog posts.
 Customization options to personalize the look and feel of individual blogs.
-User authentication system.Commenting system for user engagement.
+User authentication system.
+Commenting system for user engagement.
 Social sharing functionality to promote content.
 Supportive community-building features to connect users.
 Empowerment of individuals to freely express themselves online through blogging.
