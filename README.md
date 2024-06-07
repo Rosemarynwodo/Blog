@@ -1,5 +1,9 @@
 RosyBlog web Application
-RosyBlog is a web platform aimed at empowering individuals to share their thoughts and expertise through blogging. It targets aspiring and experienced writers, as well as readers interested in diverse content. The project aims to provide a user-friendly interface, customization options, and features like user authentication and social sharing to enhance engagement. Its overarching goal is to foster a supportive community and empower users to freely express themselves online.
+
+RosyBlog is a web platform aimed at empowering individuals to share their thoughts and expertise through blogging. 
+It targets aspiring and experienced writers, as well as readers interested in diverse content. 
+The project aims to provide a user-friendly interface, customization options, and features like user authentication and social sharing to enhance engagement. 
+Its overarching goal is to foster a supportive community and empower users to freely express themselves online.
 
 Features of RosyBlog
 User-friendly interface for creating, managing, and publishing blog posts.
