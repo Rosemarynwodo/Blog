@@ -16,7 +16,7 @@ Empowerment of individuals to freely express themselves online through blogging.
 
 To run RosyBlog locally, follow these steps:
 
-Clone the repository: git clone https://github.com/RosemarynwodO/Alx-Webstack_Portfolio_Project.git
+Clone the repository: git clone https://github.com/Rosemarynwodo/Alx-Webstack_Portfolio_Project.git
 Navigate to the project directory: 
 cd Webstack_Blog
 Install dependencies: pip install flask
